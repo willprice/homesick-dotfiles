@@ -1,0 +1,42 @@
+[submodule "homesick-vim"]
+	path = homesick-vim
+	url = git@github.com:willprice/homesick-vim.git
+[submodule "homesick-top"]
+	path = homesick-top
+	url = git@github.com:willprice/homesick-top.git
+[submodule "homesick-tmux"]
+	path = homesick-tmux
+	url = git@github.com:willprice/homesick-tmux.git
+[submodule "homesick-ssh"]
+	path = homesick-ssh
+	url = git@github.com:willprice/homesick-ssh.git
+[submodule "homesick-pentadactyl"]
+	path = homesick-pentadactyl
+	url = git@github.com:willprice/homesick-pentadactyl.git
+[submodule "homesick-mpd"]
+	path = homesick-mpd
+	url = git@github.com:willprice/homesick-mpd.git
+[submodule "homesick-lirc"]
+	path = homesick-lirc
+	url = git@github.com:willprice/homesick-lirc.git
+[submodule "homesick-x-gui"]
+	path = homesick-x-gui
+	url = git@github.com:willprice/homesick-x-gui.git
+[submodule "homesick-emacs"]
+	path = homesick-emacs
+	url = git@github.com:willprice/homesick-emacs.git
+[submodule "homesick-elinks"]
+	path = homesick-elinks
+	url = git@github.com:willprice/homesick-elinks.git
+[submodule "homesick-bashrc"]
+	path = homesick-bashrc
+	url = git@github.com:willprice/homesick-bashrc.git
+[submodule "homesick-bash"]
+	path = homesick-bash
+	url = git@github.com:willprice/homesick-bash.git
+[submodule "homesick-sensitive"]
+	path = homesick-sensitive
+	url = git@github.com:willprice/homesick-sensitive.git
+[submodule "homesick-xmonad"]
+	path = homesick-xmonad
+	url = git@github.com:willprice/homesick-xmonad.git
